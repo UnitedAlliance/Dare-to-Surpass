@@ -1,0 +1,1010 @@
+{
+  "fonts": {
+    "files": [
+      {
+        "url": "https://cdn-game-mcp-test.gambo.ai/shared/retro-pixel-arcade.otf.woff2",
+        "type": "font",
+        "key": "RetroPixel",
+        "fontType": "opentype"
+      },
+      {
+        "url": "https://cdn-game-mcp-test.gambo.ai/shared/supercell-magic_0.ttf",
+        "type": "font",
+        "key": "SupercellMagic",
+        "fontType": "opentype"
+      }
+    ]
+  },
+  "ui_images": {
+    "files": [
+      {
+        "type": "image",
+        "key": "title_bg",
+        "url": "https://cdn-game-mcp.gambo.ai/82b17fcc-569d-4b4d-965b-29531dbe70cd/images/custom_title_background.png"
+      },
+      {
+        "type": "image",
+        "key": "game_title",
+        "url": "https://cdn-game-mcp.gambo.ai/91709a26-249a-4adf-8005-4ae1fcce450f/images/dare_to_surpass_logo.png"
+      },
+      {
+        "type": "image",
+        "key": "player_avatar",
+        "url": "https://cdn-game-mcp.gambo.ai/31ba1e87-c5a8-4689-9cac-aa528f82cbd9/images/Tactical Soldier_front_view.png"
+      },
+      {
+        "type": "image",
+        "key": "clash_royale_coins",
+        "url": "https://cdn-game-mcp.gambo.ai/310168ff-b564-44b7-b80e-18766a9f9d34/images/clash_royale_coins.png"
+      },
+      {
+        "type": "image",
+        "key": "potion",
+        "url": "https://cdn-game-mcp.gambo.ai/8e6a0bec-79b1-446c-b91c-fe30d7bfebc5/images/clash_potion.png"
+      },
+      {
+        "type": "image",
+        "key": "heart_full",
+        "url": "https://cdn-game-mcp.gambo.ai/e9533850-fcf5-4701-8271-ec52d8eabc63/images/tiny_heart_full.png"
+      },
+      {
+        "type": "image",
+        "key": "heart_empty",
+        "url": "https://cdn-game-mcp.gambo.ai/8f60fef7-878e-48fb-9166-1ee6cfa3dcba/images/tiny_heart_empty.png"
+      },
+      {
+        "type": "image",
+        "key": "skill_bomb",
+        "url": "https://cdn-game-mcp.gambo.ai/42d51aab-4240-471c-af94-390bb448927e/images/clash_skill_bomb.png"
+      },
+      {
+        "type": "image",
+        "key": "skill_clover",
+        "url": "https://cdn-game-mcp.gambo.ai/03ada309-285f-4363-bf96-dce14175ab63/images/clash_skill_fireball.png"
+      },
+      {
+        "type": "image",
+        "key": "skill_tornado",
+        "url": "https://cdn-game-mcp.gambo.ai/bb2e61da-6eea-431c-83cc-fe21a68f8792/images/clash_skill_tornado.png"
+      },
+      {
+        "type": "image",
+        "key": "skill_sword",
+        "url": "https://cdn-game-mcp.gambo.ai/dd486f02-ffaf-4b99-a6e0-6df4bac50c22/images/clash_skill_sword.png"
+      },
+      {
+        "type": "image",
+        "key": "skill_fire_blade",
+        "url": "https://cdn-game-mcp.gambo.ai/5c3cd6e3-112c-4d1e-b8d5-5ebfa1e74fc7/images/skill_fire_blade.png"
+      },
+      {
+        "type": "image",
+        "key": "compact_game_over_title",
+        "url": "https://cdn-game-mcp.gambo.ai/57da3d23-4886-458f-b37b-8ecd29590f7f/images/compact_game_over_title.png"
+      },
+      {
+        "type": "image",
+        "key": "game_over_background_overlay",
+        "url": "https://cdn-game-mcp.gambo.ai/8313e898-b57b-4fb7-8ad7-d4bc468919b4/images/game_over_background_overlay.png"
+      },
+      {
+        "type": "image",
+        "key": "restart_button_normal",
+        "url": "https://cdn-game-mcp.gambo.ai/e747f858-8703-4576-a828-df92facae9c3/images/restart_button_normal.png"
+      },
+      {
+        "type": "image",
+        "key": "restart_button_hover",
+        "url": "https://cdn-game-mcp.gambo.ai/8e47a359-4fd9-4240-b73d-646880ba9cd9/images/restart_button_hover.png"
+      },
+      {
+        "type": "image",
+        "key": "small_restart_button_normal",
+        "url": "https://cdn-game-mcp.gambo.ai/4279ecf7-4ab6-4f19-a3f8-d77b29c6fe3c/images/small_restart_button_normal.png"
+      },
+      {
+        "type": "image",
+        "key": "small_restart_button_hover",
+        "url": "https://cdn-game-mcp.gambo.ai/d9625391-1d4c-40f4-9665-94c601d39127/images/small_restart_button_hover.png"
+      },
+      {
+        "type": "image",
+        "key": "small_restart_button_pressed",
+        "url": "https://cdn-game-mcp.gambo.ai/304889f4-1ed2-496c-8976-c87e84c328c0/images/small_restart_button_pressed.png"
+      }
+    ]
+  },
+  "backgrounds": {
+    "files": [
+      {
+        "type": "image",
+        "key": "arena_background",
+        "url": "https://cdn-game-mcp.gambo.ai/5038e699-7dbd-4978-8e90-11a5be1871d5/uploads/5038e699-7dbd-4978-8e90-11a5be1871d5.png"
+      },
+      {
+        "type": "image",
+        "key": "forest_arena_background",
+        "url": "https://cdn-game-mcp.gambo.ai/64756d72-41c8-4570-9a1c-20fcc79a93f7/images/forest_arena_background.png"
+      },
+      {
+        "type": "image",
+        "key": "desert_arena_background",
+        "url": "https://cdn-game-mcp.gambo.ai/f9727087-ba9c-448e-91e9-daf7103049e7/images/desert_arena_background.png"
+      },
+      {
+        "type": "image",
+        "key": "ice_arena_background",
+        "url": "https://cdn-game-mcp.gambo.ai/4a785a26-6694-462f-bc2c-f9af27284ed7/images/ice_arena_background.png"
+      }
+    ]
+  },
+  "tilesets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "arena_ground_tileset",
+        "url": "https://cdn-game-mcp.gambo.ai/b9562bbc-ac05-4dd1-bd82-800c2c7381ce/tilesets/arena_ground_tileset.png"
+      },
+      {
+        "type": "image",
+        "key": "forest_arena_tileset",
+        "url": "https://cdn-game-mcp.gambo.ai/ddbe3673-30e8-40c3-984d-fe9b9d1af94d/tilesets/forest_arena_tileset.png"
+      },
+      {
+        "type": "image",
+        "key": "desert_arena_tileset",
+        "url": "https://cdn-game-mcp.gambo.ai/e212405e-ef7c-4f3e-a1fe-3da993694913/tilesets/desert_arena_tileset.png"
+      },
+      {
+        "type": "image",
+        "key": "ice_arena_tileset",
+        "url": "https://cdn-game-mcp.gambo.ai/066f15b7-0146-482a-b570-88205e0cff17/tilesets/ice_arena_tileset.png"
+      }
+    ]
+  },
+  "tilemaps": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "top_down_arena_map",
+        "url": "https://cdn-game-mcp.gambo.ai/edd682b7-7795-4194-913e-734bfe8b51b8/tile_maps/top_down_arena_map.json"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "forest_arena_map",
+        "url": "https://cdn-game-mcp.gambo.ai/99670274-8361-4796-813c-90af79fd68e6/tile_maps/forest_arena_map.json"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "desert_arena_map",
+        "url": "https://cdn-game-mcp.gambo.ai/e2dcc381-450d-4304-b199-e13ff706f7d7/tile_maps/desert_arena_map.json"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "ice_arena_map",
+        "url": "https://cdn-game-mcp.gambo.ai/0d1da4c1-b046-4a1b-8120-6ebd58c2ce1d/tile_maps/ice_arena_map.json"
+      }
+    ]
+  },
+  "player_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/00a6d560-5920-4688-8922-7c1446ae5a79/animations/tactical_soldier_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/23390467-15fe-413c-a4b7-6448a1a9ff65/animations/tactical_soldier_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/862d505b-e2aa-42a4-8d7f-36ba9a78f799/animations/tactical_soldier_idle_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/89b75233-7f2a-443b-a731-c57d0ec20766/animations/tactical_soldier_idle_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/fec9e5c7-453b-4596-8756-e4907efcbe30/animations/tactical_soldier_idle_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_idle_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/6870e685-1232-4e0b-b641-042ea8865730/animations/tactical_soldier_idle_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/16034b97-760f-4bff-bdc2-69b742c77702/animations/tactical_soldier_walk_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/dcbb78ee-9eba-45a6-a4b1-da7a7be95854/animations/tactical_soldier_walk_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/cbacefd7-9585-454c-9212-9c5f1b966050/animations/tactical_soldier_walk_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/b07f6bc5-a601-49d1-a85e-8f87f9b4e232/animations/tactical_soldier_walk_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/005a5a60-dfde-4b0a-904a-90fabae5db6c/animations/tactical_soldier_walk_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_walk_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/d69a0eda-21b1-4916-b913-5001ad562bac/animations/tactical_soldier_walk_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/e54ed45f-9f98-4d81-9ecf-c25b298c259d/animations/tactical_soldier_attack_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/9a7c4300-395d-4ab4-bfc6-9c9966aa44f3/animations/tactical_soldier_attack_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/3eea86c9-a896-4b66-85f3-6723f99bd825/animations/tactical_soldier_attack_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/f2d996d8-8207-4f44-8eaf-2ee9a6379cf5/animations/tactical_soldier_attack_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/292e30f7-900f-4afe-aca3-e6f00cb43991/animations/tactical_soldier_attack_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "tactical_soldier_attack_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/e8cc5e2f-b5f5-41c6-950c-5c2f4ae50d92/animations/tactical_soldier_attack_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/bf19a8d8-934a-4e5c-9ba8-2f3163729d6a/animations/sword_shield_warrior_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/97fbead8-8b28-428a-bc76-de1ea110b80d/animations/sword_shield_warrior_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/cf322724-60a2-4035-9be0-6ba2a432b975/animations/sword_shield_warrior_idle_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/43fa8214-932b-475a-b303-fb4ea830b2d2/animations/sword_shield_warrior_idle_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/b5d7a0f9-1ec4-4098-adde-52b321809287/animations/sword_shield_warrior_idle_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_idle_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/897d58e3-7a59-47f3-a9a0-347c44fc226f/animations/sword_shield_warrior_idle_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/439ebdee-3044-4003-a441-1563efdf3d21/animations/sword_shield_warrior_walk_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/461ebf25-1c32-4031-b48b-d03f35ac12c4/animations/sword_shield_warrior_walk_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/245a1960-f05e-4c75-9fda-5a65dc915720/animations/sword_shield_warrior_walk_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/c3c6496d-2ab0-4350-905f-342229543309/animations/sword_shield_warrior_walk_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/68c39699-2ba1-420b-9f15-a6fcdc2af698/animations/sword_shield_warrior_walk_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_walk_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/93a9f4ba-074b-4d83-9c07-4369c6540c51/animations/sword_shield_warrior_walk_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/170fb560-f723-44a9-99f0-f22af2896f98/animations/sword_shield_warrior_attack_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/6ac6a230-05dc-4474-8017-522e26478b57/animations/sword_shield_warrior_attack_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/7ac2e60d-e72b-4e67-bcd3-640e865b705b/animations/sword_shield_warrior_attack_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/9e0c803b-57fe-4c13-ad9d-3ed4e732c75f/animations/sword_shield_warrior_attack_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_side_R_1",
+        "url": "https://cdn-game-mcp.gambo.ai/57ef4f6c-07ab-4c9d-baa7-1f04edeef841/animations/sword_shield_warrior_attack_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "sword_shield_warrior_attack_side_R_2",
+        "url": "https://cdn-game-mcp.gambo.ai/0520c2ce-0e5e-4dcc-9271-6f93216d18e2/animations/sword_shield_warrior_attack_side_R/frame_2.png"
+      }
+    ]
+  },
+  "enemy_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "goblin_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/c723fb5c-be6b-4b70-a5b2-95f3f4978350/animations/goblin_swordsman_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/775118b7-fe4d-4ac7-b4e3-b436c40d1230/animations/goblin_swordsman_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_1",
+        "url": "https://cdn-game-mcp.gambo.ai/009b3559-a340-471c-a1dd-8d1f4c3b84df/animations/goblin_swordsman_walk_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_2",
+        "url": "https://cdn-game-mcp.gambo.ai/f635efe9-8352-4d25-8c78-717edb116ac5/animations/goblin_swordsman_walk_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_side_1",
+        "url": "https://cdn-game-mcp.gambo.ai/9d64283d-c65e-475e-b582-b188090d88d9/animations/goblin_swordsman_walk_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_side_2",
+        "url": "https://cdn-game-mcp.gambo.ai/e4f64e94-95e5-4b0d-9050-f1190ee99769/animations/goblin_swordsman_walk_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/55f092da-1a3f-4f10-9540-d78b535b3752/animations/goblin_swordsman_walk_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_walk_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/180a1a76-767a-4e6e-8dfe-66ba0a90d720/animations/goblin_swordsman_walk_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/a0ddd8d3-ceb9-4dd3-a01a-ae5a0b0c9f04/animations/clash_goblin_attack_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/2b4ee642-8f3f-42fa-8aff-83fd69ee1743/animations/clash_goblin_attack_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_side_1",
+        "url": "https://cdn-game-mcp.gambo.ai/9cfaaff1-43f3-498e-9a1f-c79e0fccb193/animations/clash_goblin_attack_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_side_2",
+        "url": "https://cdn-game-mcp.gambo.ai/6bcdf6e2-ad1d-4a82-b196-fc3743bc2c6d/animations/clash_goblin_attack_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/a9251e66-2de8-46c4-873d-6db71b3f156a/animations/clash_goblin_attack_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "goblin_attack_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/4a82b57d-3759-4de9-bbd5-5f71b390cf88/animations/clash_goblin_attack_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/7d2bf3ef-fb17-4cc3-8936-c8a0920ca182/animations/clash_skeleton_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/86603ba3-0581-4b08-b161-525fc055ea86/animations/clash_skeleton_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_walk_1",
+        "url": "https://cdn-game-mcp.gambo.ai/2674ef08-7f82-4f55-9ed0-9379e972b58a/animations/clash_skeleton_walk_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_walk_2",
+        "url": "https://cdn-game-mcp.gambo.ai/0c017f2c-4a4f-41b1-bcec-fa6bced12c7c/animations/clash_skeleton_walk_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_walk_side_1",
+        "url": "https://cdn-game-mcp.gambo.ai/0aa19f9d-1669-42d8-8b41-a7b6679be654/animations/clash_skeleton_walk_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_walk_side_2",
+        "url": "https://cdn-game-mcp.gambo.ai/57020c7e-9333-4f82-8108-63c1db5c4428/animations/clash_skeleton_walk_side_R/frame_1.png"
+      }
+    ]
+  },
+  "slime_animations": {
+    "files": [
+      {
+        "type": "image",
+        "key": "blue_slime_idle_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/da1934cd-1fee-4274-bd59-172926e0edb2/animations/clash_blue_slime_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "blue_slime_idle_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/313ef121-02da-487e-8cff-7327c2745946/animations/clash_blue_slime_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "blue_slime_bounce_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/32da0dc3-983f-4989-836a-16810994765d/animations/clash_blue_slime_bounce_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "blue_slime_bounce_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/9ff30da0-9753-4434-b190-c2bdadee07e8/animations/clash_blue_slime_bounce_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "purple_slime_idle_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/5cbfa17a-9e6d-4d9a-9f7e-15b918522efd/animations/clash_purple_slime_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "purple_slime_idle_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/ee4b39b4-e571-4950-b104-b5c2043cf0ab/animations/clash_purple_slime_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "green_slime_idle_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/3667a8f6-657c-40a5-bb6b-a03906e71625/animations/clash_green_slime_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "green_slime_idle_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/b462e254-09fd-4877-844a-1812783edc91/animations/clash_green_slime_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "green_slime_bounce_front_frame1",
+        "url": "https://cdn-game-mcp.gambo.ai/61501abd-1d38-4051-aa58-5099baf668b2/animations/clash_green_slime_bounce_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "green_slime_bounce_front_frame2",
+        "url": "https://cdn-game-mcp.gambo.ai/75547eef-559f-4477-8dd8-42ce819a933d/animations/clash_green_slime_bounce_front/frame_2.png"
+      }
+    ]
+  },
+  "projectiles": {
+    "files": [
+      {
+        "type": "image",
+        "key": "magic_projectile",
+        "url": "https://cdn-game-mcp.gambo.ai/10b3dcfe-7ac9-49d2-890b-4e38f1ca76a8/images/clash_magic_projectile.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_projectile",
+        "url": "https://cdn-game-mcp.gambo.ai/bdbb05c5-b534-404e-b273-378bfe93ed66/images/slime_projectile.png"
+      },
+      {
+        "type": "image",
+        "key": "fireball",
+        "url": "https://cdn-game-mcp.gambo.ai/4df32864-ec20-467e-90c2-9cd13601e973/images/clash_fireball.png"
+      },
+      {
+        "type": "image",
+        "key": "flying_sword",
+        "url": "https://cdn-game-mcp.gambo.ai/eced8a49-5a9d-4b4f-8815-df6b229f437b/images/clash_flying_sword.png"
+      },
+      {
+        "type": "image",
+        "key": "flying_arrow",
+        "url": "https://cdn-game-mcp.gambo.ai/cf4f8f42-a6d7-42c6-b301-584110694453/images/clash_flying_arrow.png"
+      },
+      {
+        "type": "image",
+        "key": "single_arrow_projectile",
+        "url": "https://cdn-game-mcp.gambo.ai/88dd84c0-5167-48da-b5ae-88f92d493352/images/single_arrow_projectile.png"
+      },
+      {
+        "type": "image",
+        "key": "magic_arrow",
+        "url": "https://cdn-game-mcp.gambo.ai/4ba5026d-8c50-41cd-b347-baf0114514a4/images/clash_magic_arrow.png"
+      },
+      {
+        "type": "image",
+        "key": "auto_attack_indicator",
+        "url": "https://cdn-game-mcp.gambo.ai/377eaaf0-0ba8-4d46-aa44-1715a15a9a4a/images/clash_auto_attack_indicator.png"
+      }
+    ]
+  },
+  "effects": {
+    "files": [
+      {
+        "type": "image",
+        "key": "magic_explosion_vfx",
+        "url": "https://cdn-game-mcp.gambo.ai/2456fdd3-c26d-42fd-8346-dd9a2c6b2c6c/images/clash_magic_explosion.png"
+      },
+      {
+        "type": "image",
+        "key": "fire_sword_effect",
+        "url": "https://cdn-game-mcp.gambo.ai/7f1a83d1-b6b3-44ba-b15e-32e24ae5607d/images/fire_sword_effect.png"
+      },
+      {
+        "type": "image",
+        "key": "fire_aura_effect",
+        "url": "https://cdn-game-mcp.gambo.ai/c1c6a5e4-5265-4427-9666-700ac86e9709/images/fire_aura_effect.png"
+      },
+      {
+        "type": "image",
+        "key": "fire_explosion_effect",
+        "url": "https://cdn-game-mcp.gambo.ai/0376e17b-eb39-43a6-bb78-fbe4e7c9caf6/images/fire_explosion_effect.png"
+      },
+      {
+        "type": "image",
+        "key": "burning_enemy_effect",
+        "url": "https://cdn-game-mcp.gambo.ai/dc5d17d0-c52f-4a36-90c1-4fff2ed076a4/images/burning_enemy_effect.png"
+      },
+      {
+        "type": "image",
+        "key": "player_death_explosion_vfx",
+        "url": "https://cdn-game-mcp.gambo.ai/8dd7244b-1acb-4a14-a417-60db8f72181a/images/player_death_explosion_vfx.png"
+      }
+    ]
+  },
+  "sound_effects": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "ui_click",
+        "url": "https://cdn-game-mcp.gambo.ai/198b3e8a-1718-4560-b20f-e45e356b59e6/sound_effects/ui_click.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "coin_pickup",
+        "url": "https://cdn-game-mcp.gambo.ai/9074591c-bfbe-4dcf-b513-13f1414460c6/sound_effects/coin_pickup.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_hurt",
+        "url": "https://cdn-game-mcp.gambo.ai/720b60c9-16e0-45b5-a12b-15b8a3c08c57/sound_effects/player_hurt.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "enemy_death",
+        "url": "https://cdn-game-mcp.gambo.ai/9f45cdaa-81c8-4ed3-bb99-2aaba3734b1f/sound_effects/enemy_death.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "sword_slash",
+        "url": "https://cdn-game-mcp.gambo.ai/a1bd4892-e8e6-4f7f-af83-9dc4e544abdc/sound_effects/sword_slash.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "arrow_shoot",
+        "url": "https://cdn-game-mcp.gambo.ai/116e1a31-317c-4c9d-996a-cedac194b55b/sound_effects/arrow_shoot.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "fireball_cast",
+        "url": "https://cdn-game-mcp.gambo.ai/385b00bb-afb2-4057-8fd2-1d880f4281a8/sound_effects/fireball_cast.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "magic_projectile_hit",
+        "url": "https://cdn-game-mcp.gambo.ai/4a2bb3fe-9b68-4e3e-a0fc-d89267b38ced/sound_effects/magic_projectile_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "item_drop",
+        "url": "https://cdn-game-mcp.gambo.ai/05d7e97b-0fed-4e05-a344-8a4e3f35b560/sound_effects/item_drop.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "fire_attack_slash",
+        "url": "https://cdn-game-mcp.gambo.ai/578a03cb-8c3a-401f-be32-285db897bfd8/sound_effects/fire_attack_slash.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "fire_explosion_hit",
+        "url": "https://cdn-game-mcp.gambo.ai/19016680-f841-4f7e-950d-df807d858258/sound_effects/fire_explosion_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "burning_damage_tick",
+        "url": "https://cdn-game-mcp.gambo.ai/a69dec0e-6e6b-4152-85e2-5605a9020da4/sound_effects/burning_damage_tick.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_melee_attack",
+        "url": "https://cdn-game-mcp.gambo.ai/ab6e2d58-088b-4c56-9bd7-de887876842a/sound_effects/player_melee_attack.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_attack_hit",
+        "url": "https://cdn-game-mcp.gambo.ai/5d50121f-a2db-4280-b2a5-8ccb19dd893e/sound_effects/player_attack_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "goblin_attack_growl",
+        "url": "https://cdn-game-mcp.gambo.ai/babe4440-996e-42db-a684-7df7170b6265/sound_effects/goblin_attack_growl.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "skeleton_spell_cast",
+        "url": "https://cdn-game-mcp.gambo.ai/529dcd99-7cbc-45c9-add1-cb44122b897f/sound_effects/skeleton_spell_cast.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "slime_bounce_attack",
+        "url": "https://cdn-game-mcp.gambo.ai/db1871eb-ec95-4137-b583-ad1f856e03f9/sound_effects/slime_bounce_attack.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "magic_bolt_launch",
+        "url": "https://cdn-game-mcp.gambo.ai/37cf7213-93a5-4233-b39d-4c0f8bb3d6ce/sound_effects/magic_bolt_launch.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "enemy_impact_hit",
+        "url": "https://cdn-game-mcp.gambo.ai/9de5564b-c77d-4e3d-9371-6d1c31231e97/sound_effects/enemy_impact_hit.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "boss_spawn_roar",
+        "url": "https://cdn-game-mcp.gambo.ai/e2d7c162-50bc-4772-87c0-26b0a0d8c1f6/sound_effects/boss_spawn_roar.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "boss_death_explosion",
+        "url": "https://cdn-game-mcp.gambo.ai/35d637cd-9c2f-4300-9615-ac0ff05e7a9d/sound_effects/boss_death_explosion.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "boss_heavy_attack",
+        "url": "https://cdn-game-mcp.gambo.ai/a25c05c6-f477-4824-b416-1458293ad15d/sound_effects/boss_heavy_attack.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "slime_projectile_launch",
+        "url": "https://cdn-game-mcp.gambo.ai/68c4c3f2-b30e-45e8-ba2e-ff990de41660/sound_effects/slime_projectile_launch.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "slime_projectile_splat",
+        "url": "https://cdn-game-mcp.gambo.ai/0b3b127d-1503-4a74-aab7-f3685bdc779a/sound_effects/slime_projectile_splat.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "player_death_explosion",
+        "url": "https://cdn-game-mcp.gambo.ai/21e1331b-69b7-43d7-8685-2a381a8281c3/sound_effects/player_death_explosion.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "game_over_music_sting",
+        "url": "https://cdn-game-mcp.gambo.ai/25031479-ac7e-43e1-8845-45fad2d199e3/sound_effects/game_over_music_sting.mp3"
+      },
+      {
+        "type": "audio",
+        "key": "restart_button_click",
+        "url": "https://cdn-game-mcp.gambo.ai/19b5c934-e27c-4080-8792-8b21f420c29a/sound_effects/restart_button_click.mp3"
+      }
+    ]
+  },
+  "background_musics": {
+    "files": [
+      {
+        "type": "audio",
+        "key": "epic_battle_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/0e33f075-6b8c-45f0-b301-1622651f8511/music/epic_battle_theme.wav"
+      },
+      {
+        "type": "audio",
+        "key": "main_menu_theme",
+        "url": "https://cdn-game-mcp.gambo.ai/80e1daaf-2c91-4c80-b6a1-ea2493c15262/music/main_menu_theme.wav"
+      }
+    ]
+  },
+  "boss_assets": {
+    "files": [
+      {
+        "type": "image",
+        "key": "骷髅大法师_front_view",
+        "url": "https://cdn-game-mcp.gambo.ai/0029ba7c-f16d-42ce-8413-e61fece6920d/images/骷髅大法师_front_view.png"
+      },
+      {
+        "type": "image",
+        "key": "骷髅大法师_side_view",
+        "url": "https://cdn-game-mcp.gambo.ai/7ab6b70c-4cab-469e-83a7-2bb5f1511333/images/骷髅大法师_side_view.png"
+      },
+      {
+        "type": "image",
+        "key": "骷髅大法师_back_view",
+        "url": "https://cdn-game-mcp.gambo.ai/142b1484-2ab4-41a4-b6a8-45af9d70add7/images/骷髅大法师_back_view.png"
+      },
+      {
+        "type": "image",
+        "key": "史莱姆之王_front_view",
+        "url": "https://cdn-game-mcp.gambo.ai/3b8a0bf8-d452-4810-9b68-1a5a65264fa0/images/史莱姆之王_front_view.png"
+      },
+      {
+        "type": "image",
+        "key": "史莱姆之王_side_view",
+        "url": "https://cdn-game-mcp.gambo.ai/d70bbc31-4de2-4382-a90d-574413906fbf/images/史莱姆之王_side_view.png"
+      },
+      {
+        "type": "image",
+        "key": "史莱姆之王_back_view",
+        "url": "https://cdn-game-mcp.gambo.ai/d8238e9c-85d7-48c3-a1d0-8adad971f32f/images/史莱姆之王_back_view.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/e549c5fe-3170-4944-8bc8-468815941d1b/animations/skeleton_archmage_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/eabb8fe2-5624-4cc3-8af4-77824089a356/animations/skeleton_archmage_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_side_1",
+        "url": "https://cdn-game-mcp.gambo.ai/756f7cd3-76f7-4666-87a7-ea28de4b27b9/animations/skeleton_archmage_idle_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_side_2",
+        "url": "https://cdn-game-mcp.gambo.ai/e332feb7-eae3-484c-a868-324a6c9b36cc/animations/skeleton_archmage_idle_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/53f02cdc-080f-460f-999e-1af595de7db1/animations/skeleton_archmage_idle_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "skeleton_archmage_idle_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/112bfebf-8089-45d2-b80c-99c157c50404/animations/skeleton_archmage_idle_back/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_front_1",
+        "url": "https://cdn-game-mcp.gambo.ai/a7a1d619-15ed-412f-b02d-eebd4b4cd12e/animations/slime_king_idle_front/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_front_2",
+        "url": "https://cdn-game-mcp.gambo.ai/c02d1571-98e5-4237-8a61-3ac9dc0685c4/animations/slime_king_idle_front/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_side_1",
+        "url": "https://cdn-game-mcp.gambo.ai/573a2816-0380-4092-aed1-0e7cbb2e4b85/animations/slime_king_idle_side_R/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_side_2",
+        "url": "https://cdn-game-mcp.gambo.ai/e9451167-f1e0-4c55-8df1-3b7749a266fd/animations/slime_king_idle_side_R/frame_2.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_back_1",
+        "url": "https://cdn-game-mcp.gambo.ai/21c83310-fadd-4ff3-a868-ab8abdb54a1b/animations/slime_king_idle_back/frame_1.png"
+      },
+      {
+        "type": "image",
+        "key": "slime_king_idle_back_2",
+        "url": "https://cdn-game-mcp.gambo.ai/1fa4cde8-c3b3-419c-8365-1e0a603042ff/animations/slime_king_idle_back/frame_2.png"
+      }
+    ]
+  },
+  "buff_icons": {
+    "files": [
+      {
+        "type": "image",
+        "key": "buff_attack_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/d2653749-acc1-4261-b5da-dad2428947a9/images/buff_attack_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_speed_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/1413bc9a-d6ee-41a1-9361-31912b3affdf/images/buff_speed_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_attack_speed_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/a2222913-3d0e-4646-a14d-465fd8ecef79/images/buff_attack_speed_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_attack_range_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/9fdee83d-2432-495a-8fae-b14e8f8a0d0e/images/buff_attack_range_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_max_health_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/c7aec788-c49b-4866-bbdf-e02c81f29edd/images/buff_max_health_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_projectile_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/8c1714e9-1751-47ef-a99d-405f2a1ab3ee/images/buff_projectile_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_multi_shot_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/3bc260d7-8f96-40b6-811a-185dff3588cf/images/buff_multi_shot_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_piercing_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/749219dc-803b-4771-9771-49816e82eb70/images/buff_piercing_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_explosive_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/7019c830-961c-4c4b-8c0a-94db18ffb625/images/buff_explosive_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_fireball_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/13404f6b-d165-4bb8-a170-1f95d3415638/images/buff_fireball_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_chain_lightning_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/b5fbba0c-221b-46d4-a630-2ee541592950/images/buff_chain_lightning_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_ice_projectile_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/fe904f22-7d5b-4bd6-b2f3-d03cb5fca0d0/images/buff_ice_projectile_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_shadow_arrow_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/ba0f0fe5-140e-41fc-86c3-9811a36cd436/images/buff_shadow_arrow_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_holy_light_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/baa8a018-b92e-4886-9552-a295bc42f284/images/buff_holy_light_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_whirlwind_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/bf1d357d-6068-4c0e-b604-da0838b19553/images/buff_whirlwind_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_earthquake_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/0ae23c72-b181-44ab-9b30-69f77ca36604/images/buff_earthquake_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_tornado_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/831775f0-667f-4875-95cf-0476e92382d6/images/buff_tornado_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_fire_ring_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/baa5b3c9-7344-42ab-840f-5dbf954e47b7/images/buff_fire_ring_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_shield_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/0714b84a-ee63-4008-ae1a-b6b9222c3a10/images/buff_shield_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_life_steal_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/e0bedc72-48cd-46b6-89bc-4109eaf90549/images/buff_life_steal_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_reflect_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/0ad7472e-6ab2-411e-9cac-4d7f37a5f456/images/buff_reflect_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_dodge_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/76af37d5-2fca-4feb-93d0-6a520fc01d57/images/buff_dodge_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_coin_magnet_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/8f26008b-a86c-4ef8-8273-1175c4dcc664/images/buff_coin_magnet_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_time_slow_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/ea02dc69-b73d-4ff4-98a1-cb24d16b5a42/images/buff_time_slow_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_cooldown_reduction_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/c0b96d71-745e-4b02-b4f9-af2bed47389d/images/buff_cooldown_reduction_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_exp_boost_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/0a21ead5-decf-4085-8a5a-cc36b424a6a3/images/buff_exp_boost_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_summon_wolf_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/f436b80d-cdae-4b4d-b5b3-0a073c6a398c/images/buff_summon_wolf_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_healing_fairy_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/cd9fbe63-e408-4b8f-ac9e-e6c0ec1803ce/images/buff_healing_fairy_icon.png"
+      },
+      {
+        "type": "image",
+        "key": "buff_phantom_swords_icon",
+        "url": "https://cdn-game-mcp.gambo.ai/7e7ca3b2-a33c-4c75-8d76-884a5d1cf169/images/buff_phantom_swords_icon.png"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Gambo AI",
+    "version": 1,
+    "showAllFilesInBlocks": false
+  }
+}
